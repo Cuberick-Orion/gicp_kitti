@@ -1,8 +1,8 @@
 ANN: Approximate Nearest Neighbors
-Version: 1.1.1
-Release date: Aug 4, 2006
+Version: 1.1.2
+Release date: Jan 27, 2010
 ----------------------------------------------------------------------------
-Copyright (c) 1997-2005 University of Maryland and Sunil Arya and David
+Copyright (c) 1997-2010 University of Maryland and Sunil Arya and David
 Mount. All Rights Reserved.  See Copyright.txt and License.txt for
 complete information on terms and conditions of use and distribution of
 this software.
@@ -66,3 +66,5 @@ History
   Version 1.1.1  08/04/06
     Added "planted" distribution
     Updated old source comments for GNU LPL.
+  Version 1.1.2  01/27/10
+    Fixed minor compilation bugs for new versions of gcc

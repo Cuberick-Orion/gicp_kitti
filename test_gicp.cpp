@@ -170,6 +170,8 @@ bool load_points(GICPPointSet *set, const char* filename) {
 };
 
 int main(int argc, char** argv) {
+  // freopen("total_output.txt","w",stdout);
+  
   cout << "Test program for the gicp library." << endl;
 
   bool error = parse_options(argc, argv);
@@ -238,6 +240,16 @@ int main(int argc, char** argv) {
   dgc_transform_print(t_base, "t_base");
   dgc_transform_print(t0, "t0");  
   dgc_transform_print(t1, "t1");
+
+
+  // std::ofstream my_file;
+
+  // my_file.open("total_output.txt", std::ios_base::app);
+  // my_file << (t_base) << "\n";
+  // my_file << "\n";
+  // my_file << (t1) << "\n";
+  // my_file.close();
+
 
   if(debug) {
     ofstream fout("iterations.txt");

@@ -1,0 +1,2288 @@
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24231 points into GICPPointSet 1.
+Loaded 24297 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003    0.002   -1.325 
+   0.003    1.000   -0.000   -0.010 
+  -0.002    0.000    1.000   -0.020 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24297 points into GICPPointSet 1.
+Loaded 24321 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003    0.001   -1.316 
+   0.003    1.000   -0.001   -0.011 
+  -0.001    0.001    1.000   -0.018 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24321 points into GICPPointSet 1.
+Loaded 24356 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003   -0.001   -1.317 
+   0.003    1.000   -0.002   -0.011 
+   0.001    0.002    1.000   -0.018 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24356 points into GICPPointSet 1.
+Loaded 24390 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003   -0.002   -1.318 
+   0.003    1.000   -0.000   -0.011 
+   0.002    0.000    1.000   -0.018 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24390 points into GICPPointSet 1.
+Loaded 24370 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003   -0.000   -1.305 
+   0.003    1.000   -0.000   -0.011 
+   0.000    0.000    1.000   -0.022 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24370 points into GICPPointSet 1.
+Loaded 24400 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003    0.001   -1.335 
+   0.003    1.000   -0.001   -0.008 
+  -0.001    0.001    1.000   -0.016 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24400 points into GICPPointSet 1.
+Loaded 24446 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003    0.001   -1.282 
+   0.003    1.000   -0.002   -0.011 
+  -0.001    0.002    1.000   -0.021 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24446 points into GICPPointSet 1.
+Loaded 24481 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.004   -0.002   -1.294 
+   0.004    1.000   -0.002   -0.012 
+   0.002    0.002    1.000   -0.019 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24481 points into GICPPointSet 1.
+Loaded 24498 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.004   -0.003   -1.279 
+   0.004    1.000   -0.001   -0.011 
+   0.003    0.001    1.000   -0.018 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24498 points into GICPPointSet 1.
+Loaded 24511 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.004   -0.002   -1.281 
+   0.004    1.000    0.000   -0.008 
+   0.002   -0.000    1.000   -0.022 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24511 points into GICPPointSet 1.
+Loaded 24492 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.004    0.000   -1.262 
+   0.004    1.000    0.001   -0.010 
+  -0.000   -0.001    1.000   -0.020 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24492 points into GICPPointSet 1.
+Loaded 24514 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.004    0.001   -1.248 
+   0.004    1.000    0.001   -0.006 
+  -0.001   -0.001    1.000   -0.019 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24514 points into GICPPointSet 1.
+Loaded 24501 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.004    0.000   -1.222 
+   0.004    1.000   -0.000   -0.008 
+  -0.000    0.000    1.000   -0.020 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24501 points into GICPPointSet 1.
+Loaded 24491 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003    0.000   -1.218 
+   0.003    1.000   -0.001   -0.008 
+  -0.000    0.001    1.000   -0.019 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24491 points into GICPPointSet 1.
+Loaded 24460 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.004    0.001   -1.225 
+   0.004    1.000    0.000   -0.008 
+  -0.001   -0.000    1.000   -0.018 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24460 points into GICPPointSet 1.
+Loaded 24452 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003    0.001   -1.216 
+   0.003    1.000   -0.001   -0.010 
+  -0.001    0.001    1.000   -0.018 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24452 points into GICPPointSet 1.
+Loaded 24444 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003   -0.000   -1.215 
+   0.003    1.000   -0.001   -0.007 
+   0.000    0.001    1.000   -0.017 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24444 points into GICPPointSet 1.
+Loaded 24374 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003   -0.001   -1.205 
+   0.003    1.000   -0.002   -0.010 
+   0.001    0.002    1.000   -0.016 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24374 points into GICPPointSet 1.
+Loaded 24372 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003   -0.001   -1.203 
+   0.003    1.000   -0.000   -0.009 
+   0.001    0.000    1.000   -0.018 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24372 points into GICPPointSet 1.
+Loaded 24303 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003   -0.000   -1.188 
+   0.003    1.000   -0.001   -0.008 
+   0.000    0.001    1.000   -0.018 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24303 points into GICPPointSet 1.
+Loaded 24264 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003    0.000   -1.188 
+   0.003    1.000   -0.000   -0.008 
+  -0.000    0.000    1.000   -0.013 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24264 points into GICPPointSet 1.
+Loaded 24265 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.002    0.000   -1.188 
+   0.002    1.000   -0.001   -0.009 
+  -0.000    0.001    1.000   -0.018 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24265 points into GICPPointSet 1.
+Loaded 24236 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003   -0.000   -1.175 
+   0.003    1.000    0.000   -0.006 
+   0.000   -0.000    1.000   -0.013 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24236 points into GICPPointSet 1.
+Loaded 24276 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003   -0.001   -1.182 
+   0.003    1.000    0.000   -0.006 
+   0.001   -0.000    1.000   -0.018 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24276 points into GICPPointSet 1.
+Loaded 24309 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003   -0.002   -1.170 
+   0.003    1.000    0.002   -0.004 
+   0.002   -0.002    1.000   -0.016 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24309 points into GICPPointSet 1.
+Loaded 24312 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.002   -0.001   -1.172 
+   0.002    1.000    0.002   -0.003 
+   0.001   -0.002    1.000   -0.017 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24312 points into GICPPointSet 1.
+Loaded 24305 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.002    0.001   -1.169 
+   0.002    1.000    0.001   -0.006 
+  -0.001   -0.001    1.000   -0.018 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24305 points into GICPPointSet 1.
+Loaded 24268 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003    0.000   -1.161 
+   0.003    1.000    0.001   -0.005 
+  -0.000   -0.001    1.000   -0.014 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24268 points into GICPPointSet 1.
+Loaded 24226 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.002   -0.001   -1.173 
+   0.002    1.000    0.001   -0.005 
+   0.001   -0.001    1.000   -0.015 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24226 points into GICPPointSet 1.
+Loaded 24243 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.002   -0.001   -1.166 
+   0.002    1.000    0.001   -0.005 
+   0.001   -0.001    1.000   -0.019 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24243 points into GICPPointSet 1.
+Loaded 24248 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.002    0.000   -1.156 
+   0.002    1.000    0.001   -0.004 
+  -0.000   -0.001    1.000   -0.013 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24248 points into GICPPointSet 1.
+Loaded 24248 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.002    0.000   -1.160 
+   0.002    1.000    0.001   -0.004 
+  -0.000   -0.001    1.000   -0.019 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24248 points into GICPPointSet 1.
+Loaded 24254 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.002   -0.000   -1.155 
+   0.002    1.000    0.000   -0.006 
+   0.000   -0.000    1.000   -0.014 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24254 points into GICPPointSet 1.
+Loaded 24242 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.002   -0.000   -1.131 
+   0.002    1.000    0.000   -0.006 
+   0.000   -0.000    1.000   -0.015 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24242 points into GICPPointSet 1.
+Loaded 24239 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003   -0.000   -1.130 
+   0.003    1.000    0.001   -0.003 
+   0.000   -0.001    1.000   -0.015 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24239 points into GICPPointSet 1.
+Loaded 24240 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003    0.000   -1.146 
+   0.003    1.000    0.001   -0.006 
+  -0.000   -0.001    1.000   -0.015 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24240 points into GICPPointSet 1.
+Loaded 24276 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003   -0.000   -1.137 
+   0.003    1.000    0.001   -0.004 
+   0.000   -0.001    1.000   -0.016 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24276 points into GICPPointSet 1.
+Loaded 24307 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003    0.000   -1.139 
+   0.003    1.000    0.001   -0.003 
+  -0.000   -0.001    1.000   -0.015 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24307 points into GICPPointSet 1.
+Loaded 24318 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.002    0.000   -1.130 
+   0.002    1.000    0.001   -0.004 
+  -0.000   -0.001    1.000   -0.016 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24318 points into GICPPointSet 1.
+Loaded 24294 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003   -0.001   -1.133 
+   0.003    1.000    0.000   -0.003 
+   0.001   -0.000    1.000   -0.016 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24294 points into GICPPointSet 1.
+Loaded 24278 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003   -0.000   -1.128 
+   0.003    1.000   -0.000   -0.005 
+   0.000    0.000    1.000   -0.017 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24278 points into GICPPointSet 1.
+Loaded 24246 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.002    0.000   -1.132 
+   0.002    1.000   -0.000   -0.007 
+  -0.000    0.000    1.000   -0.016 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24246 points into GICPPointSet 1.
+Loaded 24230 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003   -0.000   -1.111 
+   0.003    1.000    0.000   -0.006 
+   0.000   -0.000    1.000   -0.013 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24230 points into GICPPointSet 1.
+Loaded 24246 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003   -0.001   -1.117 
+   0.003    1.000    0.000   -0.005 
+   0.001   -0.000    1.000   -0.015 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24246 points into GICPPointSet 1.
+Loaded 24293 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003   -0.000   -1.125 
+   0.003    1.000   -0.001   -0.006 
+   0.000    0.001    1.000   -0.019 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24293 points into GICPPointSet 1.
+Loaded 24301 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.002    0.000   -1.116 
+   0.002    1.000   -0.001   -0.007 
+  -0.000    0.001    1.000   -0.013 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24301 points into GICPPointSet 1.
+Loaded 24322 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.003    0.000   -1.100 
+   0.003    1.000   -0.001   -0.008 
+  -0.000    0.001    1.000   -0.018 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24322 points into GICPPointSet 1.
+Loaded 24375 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.002    0.001   -1.085 
+   0.002    1.000   -0.002   -0.008 
+  -0.001    0.002    1.000   -0.014 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24375 points into GICPPointSet 1.
+Loaded 24360 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.002    0.002   -1.085 
+   0.002    1.000   -0.001   -0.008 
+  -0.002    0.001    1.000   -0.012 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24360 points into GICPPointSet 1.
+Loaded 24347 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.002    0.000   -1.064 
+   0.002    1.000    0.000   -0.005 
+  -0.000   -0.000    1.000   -0.013 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24347 points into GICPPointSet 1.
+Loaded 24348 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.002    0.000   -1.058 
+   0.002    1.000   -0.002   -0.008 
+  -0.000    0.002    1.000   -0.019 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24348 points into GICPPointSet 1.
+Loaded 24385 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.001   -0.001   -1.060 
+   0.001    1.000    0.000   -0.004 
+   0.001   -0.000    1.000   -0.015 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24385 points into GICPPointSet 1.
+Loaded 24388 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.001   -0.002   -1.046 
+   0.001    1.000    0.000   -0.004 
+   0.002   -0.000    1.000   -0.018 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24388 points into GICPPointSet 1.
+Loaded 24415 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.001   -0.001   -1.042 
+   0.001    1.000    0.000   -0.005 
+   0.001   -0.000    1.000   -0.017 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24415 points into GICPPointSet 1.
+Loaded 24434 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.001    0.001   -1.045 
+   0.001    1.000   -0.001   -0.006 
+  -0.001    0.001    1.000   -0.016 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24434 points into GICPPointSet 1.
+Loaded 24445 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.001    0.001   -1.026 
+   0.001    1.000   -0.000   -0.004 
+  -0.001    0.000    1.000   -0.015 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24445 points into GICPPointSet 1.
+Loaded 24483 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.001   -0.000   -1.010 
+   0.001    1.000   -0.000   -0.004 
+   0.000    0.000    1.000   -0.014 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24483 points into GICPPointSet 1.
+Loaded 24481 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.001   -0.001   -1.005 
+   0.001    1.000    0.000   -0.002 
+   0.001   -0.000    1.000   -0.017 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24481 points into GICPPointSet 1.
+Loaded 24485 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.000   -0.001   -0.986 
+   0.000    1.000    0.000   -0.003 
+   0.001   -0.000    1.000   -0.017 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24485 points into GICPPointSet 1.
+Loaded 24462 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.000   -0.000   -0.981 
+   0.000    1.000   -0.000   -0.005 
+   0.000    0.000    1.000   -0.017 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24462 points into GICPPointSet 1.
+Loaded 24454 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.000    0.000   -0.972 
+   0.000    1.000   -0.000   -0.003 
+  -0.000    0.000    1.000   -0.015 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24454 points into GICPPointSet 1.
+Loaded 24454 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.000    0.000   -0.969 
+   0.000    1.000   -0.000   -0.005 
+  -0.000    0.000    1.000   -0.013 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24454 points into GICPPointSet 1.
+Loaded 24476 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.000    0.000   -0.949 
+   0.000    1.000    0.000   -0.005 
+  -0.000   -0.000    1.000   -0.014 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24476 points into GICPPointSet 1.
+Loaded 24495 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000    0.000    0.000   -0.950 
+  -0.000    1.000   -0.000   -0.006 
+  -0.000    0.000    1.000   -0.017 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24495 points into GICPPointSet 1.
+Loaded 24526 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000    0.000    0.001   -0.933 
+  -0.000    1.000    0.000   -0.002 
+  -0.001   -0.000    1.000   -0.011 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24526 points into GICPPointSet 1.
+Loaded 24553 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000    0.000    0.001   -0.930 
+  -0.000    1.000    0.000   -0.005 
+  -0.001   -0.000    1.000   -0.015 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24553 points into GICPPointSet 1.
+Loaded 24570 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000    0.000    0.001   -0.928 
+  -0.000    1.000   -0.001   -0.006 
+  -0.001    0.001    1.000   -0.012 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24570 points into GICPPointSet 1.
+Loaded 24589 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.000    0.001   -0.923 
+   0.000    1.000   -0.001   -0.005 
+  -0.001    0.001    1.000   -0.015 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24589 points into GICPPointSet 1.
+Loaded 24595 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000    0.000    0.000   -0.909 
+  -0.000    1.000   -0.001   -0.005 
+  -0.000    0.001    1.000   -0.013 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24595 points into GICPPointSet 1.
+Loaded 24608 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000    0.000   -0.001   -0.901 
+  -0.000    1.000   -0.002   -0.004 
+   0.001    0.002    1.000   -0.016 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24608 points into GICPPointSet 1.
+Loaded 24602 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.000   -0.002   -0.888 
+   0.000    1.000   -0.001   -0.003 
+   0.002    0.001    1.000   -0.014 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24602 points into GICPPointSet 1.
+Loaded 24603 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000    0.000   -0.002   -0.886 
+  -0.000    1.000   -0.001   -0.007 
+   0.002    0.001    1.000   -0.018 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24603 points into GICPPointSet 1.
+Loaded 24610 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000    0.000   -0.001   -0.872 
+  -0.000    1.000   -0.002   -0.007 
+   0.001    0.002    1.000   -0.015 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24610 points into GICPPointSet 1.
+Loaded 24619 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.000   -0.000   -0.859 
+   0.000    1.000   -0.002   -0.008 
+   0.000    0.002    1.000   -0.014 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24619 points into GICPPointSet 1.
+Loaded 24593 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000    0.000   -0.000   -0.856 
+  -0.000    1.000   -0.001   -0.006 
+   0.000    0.001    1.000   -0.013 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24593 points into GICPPointSet 1.
+Loaded 24606 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.000   -0.002   -0.854 
+   0.000    1.000   -0.001   -0.004 
+   0.002    0.001    1.000   -0.012 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24606 points into GICPPointSet 1.
+Loaded 24602 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000    0.000   -0.002   -0.843 
+  -0.000    1.000   -0.001   -0.005 
+   0.002    0.001    1.000   -0.015 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24602 points into GICPPointSet 1.
+Loaded 24606 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000    0.000   -0.001   -0.834 
+  -0.000    1.000    0.001   -0.002 
+   0.001   -0.001    1.000   -0.016 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24606 points into GICPPointSet 1.
+Loaded 24636 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000    0.000   -0.000   -0.826 
+  -0.000    1.000    0.000   -0.005 
+   0.000   -0.000    1.000   -0.014 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24636 points into GICPPointSet 1.
+Loaded 24628 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000    0.000    0.000   -0.815 
+  -0.000    1.000    0.001    0.000 
+  -0.000   -0.001    1.000   -0.010 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24628 points into GICPPointSet 1.
+Loaded 24631 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000    0.000    0.000   -0.802 
+  -0.000    1.000    0.002   -0.002 
+  -0.000   -0.002    1.000   -0.013 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24631 points into GICPPointSet 1.
+Loaded 24622 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000    0.001    0.001   -0.787 
+  -0.001    1.000   -0.000   -0.003 
+  -0.001    0.000    1.000   -0.014 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24622 points into GICPPointSet 1.
+Loaded 24611 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000    0.000    0.001   -0.775 
+  -0.000    1.000    0.001   -0.003 
+  -0.001   -0.001    1.000   -0.011 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24611 points into GICPPointSet 1.
+Loaded 24625 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000    0.000    0.000   -0.765 
+  -0.000    1.000    0.001   -0.002 
+  -0.000   -0.001    1.000   -0.010 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24625 points into GICPPointSet 1.
+Loaded 24607 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000    0.001    0.000   -0.755 
+  -0.001    1.000    0.000   -0.000 
+  -0.000   -0.000    1.000   -0.012 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24607 points into GICPPointSet 1.
+Loaded 24591 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000    0.000   -0.001   -0.752 
+  -0.000    1.000    0.000   -0.002 
+   0.001   -0.000    1.000   -0.013 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24591 points into GICPPointSet 1.
+Loaded 24596 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000    0.000   -0.000   -0.733 
+  -0.000    1.000    0.001   -0.003 
+   0.000   -0.001    1.000   -0.011 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24596 points into GICPPointSet 1.
+Loaded 24584 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.000    0.000   -0.714 
+   0.000    1.000    0.001   -0.002 
+  -0.000   -0.001    1.000   -0.014 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24584 points into GICPPointSet 1.
+Loaded 24598 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.000    0.000   -0.705 
+   0.000    1.000   -0.000   -0.004 
+  -0.000    0.000    1.000   -0.012 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24598 points into GICPPointSet 1.
+Loaded 24608 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.000    0.000   -0.698 
+   0.000    1.000    0.000   -0.004 
+  -0.000   -0.000    1.000   -0.008 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24608 points into GICPPointSet 1.
+Loaded 24604 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.001   -0.001   -0.685 
+   0.001    1.000    0.001    0.001 
+   0.001   -0.001    1.000   -0.011 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24604 points into GICPPointSet 1.
+Loaded 24626 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.001   -0.001   -0.684 
+   0.001    1.000    0.001   -0.002 
+   0.001   -0.001    1.000   -0.012 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24626 points into GICPPointSet 1.
+Loaded 24628 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.001   -0.001   -0.666 
+   0.001    1.000    0.001   -0.001 
+   0.001   -0.001    1.000   -0.013 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24628 points into GICPPointSet 1.
+Loaded 24633 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.001   -0.001   -0.655 
+   0.001    1.000    0.000   -0.003 
+   0.001   -0.000    1.000   -0.013 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24633 points into GICPPointSet 1.
+Loaded 24651 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.001   -0.000   -0.654 
+   0.001    1.000    0.000   -0.002 
+   0.000   -0.000    1.000   -0.011 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24651 points into GICPPointSet 1.
+Loaded 24652 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.001   -0.000   -0.621 
+   0.001    1.000    0.001   -0.001 
+   0.000   -0.001    1.000   -0.008 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24652 points into GICPPointSet 1.
+Loaded 24635 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.001   -0.000   -0.618 
+   0.001    1.000    0.002    0.001 
+   0.000   -0.002    1.000   -0.013 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24635 points into GICPPointSet 1.
+Loaded 24637 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.001   -0.000   -0.594 
+   0.001    1.000    0.001   -0.003 
+   0.000   -0.001    1.000   -0.010 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24637 points into GICPPointSet 1.
+Loaded 24624 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.001   -0.001   -0.592 
+   0.001    1.000    0.000   -0.002 
+   0.001   -0.000    1.000   -0.014 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24624 points into GICPPointSet 1.
+Loaded 24603 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.000    0.000   -0.563 
+   0.000    1.000   -0.000   -0.004 
+  -0.000    0.000    1.000   -0.010 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24603 points into GICPPointSet 1.
+Loaded 24593 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.000    0.001   -0.567 
+   0.000    1.000    0.001   -0.001 
+  -0.001   -0.001    1.000   -0.008 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24593 points into GICPPointSet 1.
+Loaded 24576 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000    0.000   -0.000   -0.537 
+  -0.000    1.000    0.003    0.005 
+   0.000   -0.003    1.000   -0.004 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24576 points into GICPPointSet 1.
+Loaded 24544 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000   -0.000   -0.002   -0.527 
+   0.000    1.000    0.005    0.006 
+   0.002   -0.005    1.000   -0.010 
+   0.000    0.000    0.000    1.000 
+Test program for the gicp library.
+Setting up pointclouds...
+Loaded 24544 points into GICPPointSet 1.
+Loaded 24509 points into GICPPointSet 2.
+Building KDTree and computing surface normals/matrices...
+Aligning point cloud...
+Converged: 
+t_base:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t0:
+   1.000    0.000    0.000    0.000 
+   0.000    1.000    0.000    0.000 
+   0.000    0.000    1.000    0.000 
+   0.000    0.000    0.000    1.000 
+t1:
+   1.000    0.000    0.000   -0.507 
+  -0.000    1.000    0.002   -0.001 
+  -0.000   -0.002    1.000   -0.018 
+   0.000    0.000    0.000    1.000 

@@ -46,11 +46,12 @@ function plot_convergence(dir, show_corresp, show_metrics, skip1, skip2)
         end
         pts_tfm = ((t{i}*t_base)*[pts1'; ones(1, size(pts1,1))])';
         start_view = view;
-        h1 = plot3(pts_tfm(1:skip1:end,1), pts_tfm(1:skip1:end,2), pts_tfm(1:skip1:end,3),'rx');
+        h1 = plot3(pts_tfm(1:skip1:end,1), pts_tfm(1:skip1:end,2), pts_tfm(1:skip1:end,3),'b.');
         hold on;
-        h2 = plot3(pts2(1:skip2:end,1), pts2(1:skip2:end,2), pts2(1:skip2:end,3),'go');
+        h2 = plot3(pts2(1:skip2:end,1), pts2(1:skip2:end,2), pts2(1:skip2:end,3),'k.');
         %view(start_view);
         pause(pause_time);
+%         blue is previous, black is next
     end
     
     if(show_corresp)
@@ -74,4 +75,5 @@ function plot_convergence(dir, show_corresp, show_metrics, skip1, skip2)
             set(h, 'EdgeColor', 'flat');
         end
     end
+disp('round~~~');    
 end

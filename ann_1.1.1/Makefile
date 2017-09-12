@@ -91,7 +91,7 @@ realclean:
 #-----------------------------------------------------------------------------
 # Make distribution package (for use by authors only)
 #-----------------------------------------------------------------------------
-DISTR = ann_1.1.1
+DISTR = ann_1.1.2
 
 distribution: realclean 
 	cd .. ; mv -f $(DISTR) $(DISTR)-old; mkdir $(DISTR)

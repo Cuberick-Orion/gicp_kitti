@@ -1,10 +1,10 @@
 //----------------------------------------------------------------------
-//	File:			ann_test.cpp
-//	Programmer:		Sunil Arya and David Mount
-//	Description:	test program for ANN (approximate nearest neighbors)
-//  Last modified:	08/04/06 (Version 1.1.1)
+// File:			ann_test.cpp
+// Programmer:		Sunil Arya and David Mount
+// Description:		test program for ANN (approximate nearest neighbors)
+// Last modified:	01/27/10 (Version 1.1.2)
 //----------------------------------------------------------------------
-// Copyright (c) 1997-2005 University of Maryland and Sunil Arya and
+// Copyright (c) 1997-2010 University of Maryland and Sunil Arya and
 // David Mount.  All Rights Reserved.
 // 
 // This software and related documentation is part of the Approximate
@@ -32,12 +32,14 @@
 //		Added fixed radius kNN search
 //	Revision 1.1.1 08/04/06
 //		Added planted distribution
+//	Revision 1.1.2  01/27/10
+//		Fixed minor compilation bugs for new versions of gcc
+//		Allow round-off error in validation test
 //----------------------------------------------------------------------
 
 #include <ctime>						// clock
 #include <cmath>						// math routines
-#include <string>						// C string ops
-#include <string.h>
+#include <cstring>						// C string ops
 #include <fstream>						// file I/O
 
 #include <ANN/ANN.h>					// ANN declarations
@@ -280,6 +282,7 @@ using namespace std;					// make std:: available
 
 const int		STRING_LEN		= 500;			// max string length
 const double	ERR				= 0.00001;		// epsilon (for float compares)
+const double	RND_OFF			= 5E-16;		// double round-off error
 
 //------------------------------------------------------------------------
 //	Enumerated values and conversions
@@ -371,7 +374,7 @@ const char shrink_table[N_SHRINK_RULES][STRING_LEN] = {
 //----------------------------------------------------------------------
 
 void Error(								// error routine
-	char				*msg,			// error message
+	const char*			msg,			// error message
 	ANNerr				level)			// abort afterwards
 {
 	if (level == ANNabort) {
@@ -396,7 +399,7 @@ void printPoint(						// print point
 }
 
 int lookUp(								// look up name in table
-	const char	*arg,					// name to look up
+	const char*	arg,					// name to look up
 	const char	(*table)[STRING_LEN],	// name table
 	int			size)					// table size
 {
@@ -1513,7 +1516,7 @@ void doValidation()						// perform validation
 				resultErr = (rept_dist - true_dist) / ((double) true_dist);
 			}
 
-			if (resultErr > epsilon && max_pts_visit == 0) {
+			if (resultErr > epsilon + RND_OFF && max_pts_visit == 0) {
 				Error("INTERNAL ERROR: Actual error exceeds epsilon",
 						ANNabort);
 			}

@@ -41,10 +41,11 @@
 //----------------------------------------------------------------------
 
 #include <cstdio>						// C standard I/O
+#include <cstdlib>						// standard lib defs
+#include <cstring>						// C strings
 #include <fstream>						// file I/O
 #include <string>						// string manipulation
 #include <ANN/ANNx.h>					// all ANN includes
-#include <string.h>
 
 using namespace std;					// make std:: accessible
 
@@ -93,7 +94,7 @@ double			offset_y;
 //	Error handler
 //----------------------------------------------------------------------
 
-void Error(char *msg, ANNerr level)
+void Error(const char* msg, ANNerr level)
 {
 	if (level == ANNabort) {
 		cerr << "ann2fig: ERROR------->" << msg << "<-------------ERROR\n";
