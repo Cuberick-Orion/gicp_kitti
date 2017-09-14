@@ -16,14 +16,14 @@ int main() {
 	char *parameters = "--debug 0";
 
 // total of 105 frames, produce 104 datasets
-	for (int count = 1; count<105; count++) {
+	for (int count = 1; count<107; count++) {
 		int fileNo1 = count;
 		int fileNo2 = (count + 1);
 		sprintf(frame1,"%s%d%s",directory,fileNo1,fileType);
 		sprintf(frame2,"%s%d%s",directory,fileNo2,fileType);
 
-
-		sprintf(command,"%s %s %s %s",exeLocation,frame1,frame2,parameters);
+		// sprintf(command,"%s %s %s",exeLocation,frame2,frame1);
+		sprintf(command,"%s %s %s %s",exeLocation,frame2,frame1,parameters);
 		int result = system(command);
 
 	}
